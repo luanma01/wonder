@@ -1,8 +1,11 @@
 # wonder
-this is my first github try...
-just a 
-test...
-i want to use it !
-----------梁正雄
 
-然后我又加了一些内容，试试
+这是我第一次
+
+使用 Github
+
+先来做个测试。。。。。。。。。
+
+声明：
+
+这是测试文档！！！！yoo
